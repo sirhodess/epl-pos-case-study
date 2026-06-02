@@ -113,4 +113,4 @@ I added final dashboard/POS workflow improvements, including:
 
 Overall, my contributions focused on establishing and expanding the frontend/product foundation of the project. This included core public-facing inventory features, staff-facing POS workflows, inventory management, rental checkout/check-in behavior, returns/refunds/voids, dashboard functionality, and final UI/UX polish.
 
-This fork is intended to document the portions of the project I directly contributed to and to provide a clearer record of my individual work for portfolio and reference purposes.
+This case study is intended to document the portions of the project I directly contributed to and to provide a clearer record of my individual work for portfolio and reference purposes.

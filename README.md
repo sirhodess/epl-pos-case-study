@@ -29,7 +29,8 @@ I contributed primarily to the frontend and full-stack workflow integration, inc
 
 ## Screenshots
 
--screenshots coming 
+![Dashboard POS screenshot](screenshots/dashboard.png)
+![Checkout POS screenshot](screenshots/checkout_pos.png)
 
 ## Repository Note
 
